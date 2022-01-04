@@ -3,3 +3,5 @@ print("And one new conflicted comment")
 print("Theird conflicted comment")
 print("Something")
 print("else")
+print("Forth conflicted comment")
+
