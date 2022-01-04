@@ -1,1 +1,3 @@
 print("Conflicted comment")
+print("And one new conflicted comment")
+print("Theird conflicted comment")
