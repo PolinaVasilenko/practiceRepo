@@ -2,7 +2,7 @@ package ru.java.reverse;
 
 public class Reverse {
 	public static void main(String[] args) {
-		System.out.println(reverse("Hello World!"));
+		System.out.println(reverse("Hello World!!!"));
 	}
 
 	public static String reverse(String input) {
